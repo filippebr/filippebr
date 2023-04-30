@@ -5,17 +5,17 @@
 ## TECHNOLOGIES:
 
 <div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" /> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="60" height="60"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" width="60" height="60"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" height="60"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="60" height="60"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="60" height="60"/>  
+  <img src=".github/images/icons/html-5.svg" width="60" height="60"/>
+  <img src=".github/images/icons/css-3.svg" width="60" height="60"/>  
+  <img src=".github/images/icons/javascript.svg" width="60" height="60" /> 
+  <img src=".github/images/icons/typescript.svg" width="60" height="60" />
+  <img src=".github/images/icons/react.svg" width="60" height="60"/>
+  <img src=".github/images/icons/next-js.svg" width="60" height="60"/>
+  <img src=".github/images/icons/mongodb-icon-1.svg" width="60" height="60"/>   
+  <img src=".github/images/icons/tailwind-css-2.svg" width="60" height="60"/> 
+  <img src=".github/images/icons/bootstrap-5.svg" width="60" height="60"/>
+  <img src=".github/images/icons/git-icon.svg" width="60" height="60"/> 
+  <img src=".github/images/icons/docker-3.svg" width="60" height="60"/> 
+  <img src=".github/images/icons/blender.svg" width="60" height="60"/>  
 <div> 
 
